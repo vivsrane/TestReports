@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Comment CommentText="The implementation of the ReportProcessingLocation classes will merge the contents of the xml configuration with a seperate environment specific file so as the path and file properties are fully qualified">
+    <Position X="6.542" Y="8.156" Height="1.302" Width="1.7" />
+  </Comment>
+  <Class Name="VB.Reports.App.ReportDefinitionLibrary.ReportGroupingFactory">
+    <Position X="5" Y="11.5" Width="2.5" />
+    <TypeIdentifier>
+      <FileName>ReportGroupingFactory.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAIAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VB.Reports.App.ReportDefinitionLibrary.ReportFactory">
+    <Position X="2" Y="11.5" Width="2.5" />
+    <TypeIdentifier>
+      <FileName>ReportFactory.cs</FileName>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAACQAAAAAAAAABAAE=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="VB.Reports.App.ReportDefinitionLibrary.ReportFactory.ResolveParameterValue" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ReportFactory.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="VB.Reports.App.ReportDefinitionLibrary.ReportFactory.ResolveDataSourceType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ReportFactory.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+  </Class>
+  <Interface Name="VB.Reports.App.ReportDefinitionLibrary.IReportTreeNode">
+    <Position X="4.75" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <FileName>IReportTreeNode.cs</FileName>
+      <HashCode>AAAAACAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="NodeType" />
+    </ShowAsAssociation>
+    <AssociationLine Name="NodeType" Type="VB.Reports.App.ReportDefinitionLibrary.ReportTreeNodeType">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.36" Y="0.06" />
+      </MemberNameLabel>
+    </AssociationLine>
+  </Interface>
+  <Interface Name="VB.Reports.App.ReportDefinitionLibrary.IReport">
+    <Position X="3.75" Y="5" Width="2" />
+    <TypeIdentifier>
+      <FileName>IReport.cs</FileName>
+      <HashCode>AAACABAAAAAgAgAAAAABAAQAAAAACAAAAEAACAEAAAA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ReportType" />
+      <Property Name="ReportProcessingLocation" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="ReportParameters" />
+    </ShowAsCollectionAssociation>
+    <AssociationLine Name="ReportType" Type="VB.Reports.App.ReportDefinitionLibrary.ReportType" FixedFromPoint="true">
+      <Path>
+        <Point X="3.75" Y="5.814" />
+        <Point X="2.25" Y="5.814" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="0.214" Y="0.112" Height="0.16" Width="0.943" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="ReportProcessingLocation" Type="VB.Reports.App.ReportDefinitionLibrary.IReportProcessingLocation">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.193" Y="0.247" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="ReportParameters" Type="VB.Reports.App.ReportDefinitionLibrary.IReportParameter" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.75" Y="6.25" />
+        <Point X="8.5" Y="6.25" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.226" Y="-0.286" />
+      </MemberNameLabel>
+    </AssociationLine>
+  </Interface>
+  <Interface Name="VB.Reports.App.ReportDefinitionLibrary.IReportHandle">
+    <Position X="3.5" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>IReportHandle.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACBAA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Report" />
+    </ShowAsAssociation>
+    <AssociationLine Name="Report" Type="VB.Reports.App.ReportDefinitionLibrary.IReport">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.734" Y="0.497" />
+      </MemberNameLabel>
+    </AssociationLine>
+  </Interface>
+  <Interface Name="VB.Reports.App.ReportDefinitionLibrary.IReportGroup">
+    <Position X="6" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>IReportGroup.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Children" />
+    </ShowAsCollectionAssociation>
+    <AssociationLine Name="Children" Type="VB.Reports.App.ReportDefinitionLibrary.IReportTreeNode" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="7.5" Y="3" />
+        <Point X="7.5" Y="1.625" />
+        <Point X="6.75" Y="1.625" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="0.936" Y="-0.734" Height="0.16" Width="0.743" />
+      </MemberNameLabel>
+    </AssociationLine>
+  </Interface>
+  <Interface Name="VB.Reports.App.ReportDefinitionLibrary.ILocalReportProcessingLocation">
+    <Position X="2" Y="9.75" Width="2.5" />
+    <TypeIdentifier>
+      <FileName>ILocalReportProcessingLocation.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAEAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="VB.Reports.App.ReportDefinitionLibrary.IRemoteReportProcessingLocation">
+    <Position X="5" Y="9.75" Width="2.5" />
+    <TypeIdentifier>
+      <FileName>IRemoteReportProcessingLocation.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="VB.Reports.App.ReportDefinitionLibrary.IReportParameter">
+    <Position X="8.5" Y="6" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>IReportParameter.cs</FileName>
+      <HashCode>AAAAAAAAEAAAAAAAgAAAAIAAAABAAAAAAAAIAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ReportParameterInputType" />
+    </ShowAsAssociation>
+    <AssociationLine Name="ReportParameterInputType" Type="VB.Reports.App.ReportDefinitionLibrary.ReportParameterInputType">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.56" Y="0.131" />
+      </MemberNameLabel>
+    </AssociationLine>
+  </Interface>
+  <Interface Name="VB.Reports.App.ReportDefinitionLibrary.IReportParameterValue">
+    <Position X="13.5" Y="10" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>IReportParameterValue.cs</FileName>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAI=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="VB.Reports.App.ReportDefinitionLibrary.IReportProcessingLocation" Collapsed="true">
+    <Position X="3.75" Y="7.5" Width="2" />
+    <TypeIdentifier>
+      <FileName>IReportProcessingLocation.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="VB.Reports.App.ReportDefinitionLibrary.ReportTreeNodeType">
+    <Position X="8.25" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <FileName>ReportTreeNodeType.cs</FileName>
+      <HashCode>AAAAAAAAAAAAgAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="VB.Reports.App.ReportDefinitionLibrary.ReportType">
+    <Position X="0.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ReportType.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="VB.Reports.App.ReportDefinitionLibrary.ReportParameterDataType">
+    <Position X="13.5" Y="6.25" Width="2" />
+    <TypeIdentifier>
+      <FileName>ReportParameterDataType.cs</FileName>
+      <HashCode>AAAAAAAAAQAAAAAAQAAAAAAAAAAAAgQAAAAAAAAgAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="VB.Reports.App.ReportDefinitionLibrary.ReportParameterInputType">
+    <Position X="13.5" Y="8" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>ReportParameterInputType.cs</FileName>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAACACAAAASAAEAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="VB.Reports.App.ReportDefinitionLibrary.ReportDataCommandType">
+    <Position X="13.5" Y="5" Width="2" />
+    <TypeIdentifier>
+      <FileName>ReportDataCommandType.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+</ClassDiagram>

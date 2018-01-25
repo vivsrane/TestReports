@@ -1,0 +1,138 @@
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\FirstLook.DomainModel.Oltp.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\FirstLook.DomainModel.Oltp.pdb
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\Autofac.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\Csla.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\FirstLook.Common.ActiveRecord.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\FirstLook.Common.Core.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\FirstLook.Common.Data.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\Newtonsoft.Json.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\Microsoft.XmlDiffPatch.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\log4net.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\itextsharp.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\FirstLook.Common.Pool.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\FirstLook.Common.Impersonation.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\FirstLook.Common.Threading.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\FirstLook.Common.ActiveRecord.pdb
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\FirstLook.Common.Core.pdb
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\FirstLook.Common.Data.pdb
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\Csla.pdb
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\Csla.xml
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\Autofac.xml
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\Newtonsoft.Json.xml
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\log4net.xml
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\FirstLook.Common.Pool.pdb
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\FirstLook.Common.Impersonation.pdb
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\FirstLook.Common.Threading.pdb
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\bs\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\ca-ES\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\da\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\de\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\es\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\es-ES\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\fr\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\hr\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\it\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\nl\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\no\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\pt\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\pt-br\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\ro\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\ru\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\sr\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\sv\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\zh-CHS\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\obj\Debug\Oltp.csprojResolveAssemblyReference.cache
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\obj\Debug\FirstLook.DomainModel.Oltp.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\obj\Debug\FirstLook.DomainModel.Oltp.pdb
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\FirstLook.DomainModel.Oltp.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\FirstLook.DomainModel.Oltp.pdb
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\Autofac.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\Csla.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\FirstLook.Common.ActiveRecord.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\FirstLook.Common.Core.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\FirstLook.Common.Data.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\Newtonsoft.Json.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\Microsoft.XmlDiffPatch.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\log4net.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\itextsharp.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\FirstLook.Common.Pool.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\FirstLook.Common.Impersonation.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\FirstLook.Common.Threading.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\FirstLook.Common.ActiveRecord.pdb
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\FirstLook.Common.Core.pdb
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\FirstLook.Common.Data.pdb
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\Csla.pdb
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\Csla.xml
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\Autofac.xml
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\Newtonsoft.Json.xml
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\log4net.xml
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\FirstLook.Common.Pool.pdb
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\FirstLook.Common.Impersonation.pdb
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\FirstLook.Common.Threading.pdb
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\bs\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\ca-ES\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\da\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\de\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\es\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\es-ES\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\fr\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\hr\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\it\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\nl\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\no\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\pt\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\pt-br\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\ro\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\ru\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\sr\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\sv\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\bin\Debug\zh-CHS\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\obj\Debug\Oltp.csprojResolveAssemblyReference.cache
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\obj\Debug\FirstLook.DomainModel.Oltp.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\Oltp\obj\Debug\FirstLook.DomainModel.Oltp.pdb
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\VB.DomainModel.Oltp.dll
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\VB.DomainModel.Oltp.pdb
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\Csla.dll
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\VB.Common.ActiveRecord.dll
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\VB.Common.Core.dll
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\VB.Common.Data.dll
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\Newtonsoft.Json.dll
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\Microsoft.XmlDiffPatch.dll
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\log4net.dll
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\itextsharp.dll
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\VB.Common.Pool.dll
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\VB.Common.Impersonation.dll
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\VB.Common.Threading.dll
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\VB.Common.ActiveRecord.pdb
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\VB.Common.Core.pdb
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\VB.Common.Data.pdb
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\Csla.pdb
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\Csla.xml
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\Newtonsoft.Json.xml
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\VB.Common.Pool.pdb
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\VB.Common.Impersonation.pdb
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\VB.Common.Threading.pdb
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\bs\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\ca-ES\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\da\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\de\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\es\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\es-ES\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\fr\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\hr\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\it\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\nl\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\no\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\pt\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\pt-br\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\ro\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\ru\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\sr\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\sv\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\bin\Debug\zh-CHS\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\obj\Debug\Oltp.csprojResolveAssemblyReference.cache
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\obj\Debug\VB.DomainModel.Oltp.dll
+D:\Vivek Rane\Practice\test\BV\BV\Oltp\obj\Debug\VB.DomainModel.Oltp.pdb

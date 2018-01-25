@@ -1,0 +1,21 @@
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Pool\bin\Debug\FirstLook.Common.Pool.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Pool\bin\Debug\FirstLook.Common.Pool.pdb
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Pool\bin\Debug\FirstLook.Common.Threading.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Pool\bin\Debug\FirstLook.Common.Threading.pdb
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Pool\obj\Debug\Pool.csprojResolveAssemblyReference.cache
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Pool\obj\Debug\FirstLook.Common.Pool.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Pool\obj\Debug\FirstLook.Common.Pool.pdb
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Pool\bin\Debug\FirstLook.Common.Pool.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Pool\bin\Debug\FirstLook.Common.Pool.pdb
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Pool\bin\Debug\FirstLook.Common.Threading.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Pool\bin\Debug\FirstLook.Common.Threading.pdb
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Pool\obj\Debug\Pool.csprojResolveAssemblyReference.cache
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Pool\obj\Debug\FirstLook.Common.Pool.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Pool\obj\Debug\FirstLook.Common.Pool.pdb
+D:\Vivek Rane\Practice\test\BV\BV\Pool\bin\Debug\VB.Common.Pool.dll
+D:\Vivek Rane\Practice\test\BV\BV\Pool\bin\Debug\VB.Common.Pool.pdb
+D:\Vivek Rane\Practice\test\BV\BV\Pool\bin\Debug\VB.Common.Threading.dll
+D:\Vivek Rane\Practice\test\BV\BV\Pool\bin\Debug\VB.Common.Threading.pdb
+D:\Vivek Rane\Practice\test\BV\BV\Pool\obj\Debug\Pool.csprojResolveAssemblyReference.cache
+D:\Vivek Rane\Practice\test\BV\BV\Pool\obj\Debug\VB.Common.Pool.dll
+D:\Vivek Rane\Practice\test\BV\BV\Pool\obj\Debug\VB.Common.Pool.pdb

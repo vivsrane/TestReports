@@ -1,0 +1,223 @@
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\Csla.dll.config
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\Csla.XML
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\Csla.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\Csla.pdb
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\bs\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\ca-ES\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\de\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\es-ES\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\es\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\fr\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\hr\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\it\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\nl\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\no\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\pt-br\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\pt\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\da\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\ro\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\ru\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\sr\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\sv\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\zh-CHS\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\FirstLook.Common.Core.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\Autofac.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\Newtonsoft.Json.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\Microsoft.XmlDiffPatch.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\log4net.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\itextsharp.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\FirstLook.Common.Core.pdb
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\Autofac.xml
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\Newtonsoft.Json.xml
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\log4net.xml
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.csprojResolveAssemblyReference.cache
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources-il.resources
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.resources
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Web.Design.CslaDataSourceConfiguration.resources
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.bs.resources
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.ca-ES.resources
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.de.resources
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.es-ES.resources
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.es.resources
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.fr.resources
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.hr.resources
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.it.resources
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.nl.resources
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.no.resources
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.pt-br.resources
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.pt.resources
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.da.resources
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.ro.resources
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.ru.resources
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.sr.resources
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.sv.resources
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.zh-CHS.resources
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.csproj.GenerateResource.Cache
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\bs\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\ca-ES\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\de\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\es-ES\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\es\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\fr\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\hr\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\it\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\nl\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\no\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\pt-br\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\pt\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\da\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\ro\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\ru\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\sr\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\sv\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\zh-CHS\Csla.resources.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.pdb
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\Csla.dll.config
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\Csla.XML
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\Csla.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\Csla.pdb
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\bs\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\ca-ES\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\de\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\es-ES\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\es\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\fr\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\hr\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\it\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\nl\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\no\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\pt-br\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\pt\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\da\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\ro\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\ru\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\sr\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\sv\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\zh-CHS\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\FirstLook.Common.Core.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\Autofac.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\Newtonsoft.Json.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\Microsoft.XmlDiffPatch.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\log4net.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\itextsharp.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\FirstLook.Common.Core.pdb
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\Autofac.xml
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\Newtonsoft.Json.xml
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\bin\Debug\log4net.xml
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.csprojResolveAssemblyReference.cache
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources-il.resources
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.resources
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Web.Design.CslaDataSourceConfiguration.resources
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.bs.resources
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.ca-ES.resources
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.de.resources
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.es-ES.resources
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.es.resources
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.fr.resources
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.hr.resources
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.it.resources
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.nl.resources
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.no.resources
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.pt-br.resources
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.pt.resources
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.da.resources
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.ro.resources
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.ru.resources
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.sr.resources
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.sv.resources
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.Properties.Resources.zh-CHS.resources
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.csproj.GenerateResource.Cache
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\bs\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\ca-ES\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\de\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\es-ES\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\es\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\fr\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\hr\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\it\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\nl\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\no\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\pt-br\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\pt\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\da\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\ro\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\ru\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\sr\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\sv\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\zh-CHS\Csla.resources.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CslaSolution\Csla\obj\Debug\Csla.pdb
+D:\Vivek Rane\Practice\test\BV\BV\Csla\bin\Debug\Csla.dll.config
+D:\Vivek Rane\Practice\test\BV\BV\Csla\bin\Debug\Csla.XML
+D:\Vivek Rane\Practice\test\BV\BV\Csla\bin\Debug\Csla.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\bin\Debug\Csla.pdb
+D:\Vivek Rane\Practice\test\BV\BV\Csla\bin\Debug\bs\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\bin\Debug\ca-ES\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\bin\Debug\de\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\bin\Debug\es-ES\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\bin\Debug\es\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\bin\Debug\fr\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\bin\Debug\hr\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\bin\Debug\it\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\bin\Debug\nl\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\bin\Debug\no\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\bin\Debug\pt-br\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\bin\Debug\pt\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\bin\Debug\da\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\bin\Debug\ro\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\bin\Debug\ru\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\bin\Debug\sr\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\bin\Debug\sv\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\bin\Debug\zh-CHS\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\bin\Debug\VB.Common.Core.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\bin\Debug\Autofac.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\bin\Debug\Newtonsoft.Json.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\bin\Debug\Microsoft.XmlDiffPatch.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\bin\Debug\log4net.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\bin\Debug\itextsharp.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\bin\Debug\VB.Common.Core.pdb
+D:\Vivek Rane\Practice\test\BV\BV\Csla\bin\Debug\Newtonsoft.Json.xml
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\Csla.csprojResolveAssemblyReference.cache
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\Csla.Properties.Resources-il.resources
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\Csla.Properties.Resources.resources
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\Csla.Web.Design.CslaDataSourceConfiguration.resources
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\Csla.Properties.Resources.bs.resources
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\Csla.Properties.Resources.ca-ES.resources
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\Csla.Properties.Resources.de.resources
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\Csla.Properties.Resources.es-ES.resources
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\Csla.Properties.Resources.es.resources
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\Csla.Properties.Resources.fr.resources
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\Csla.Properties.Resources.hr.resources
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\Csla.Properties.Resources.it.resources
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\Csla.Properties.Resources.nl.resources
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\Csla.Properties.Resources.no.resources
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\Csla.Properties.Resources.pt-br.resources
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\Csla.Properties.Resources.pt.resources
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\Csla.Properties.Resources.da.resources
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\Csla.Properties.Resources.ro.resources
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\Csla.Properties.Resources.ru.resources
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\Csla.Properties.Resources.sr.resources
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\Csla.Properties.Resources.sv.resources
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\Csla.Properties.Resources.zh-CHS.resources
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\Csla.csproj.GenerateResource.Cache
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\bs\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\ca-ES\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\de\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\es-ES\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\es\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\fr\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\hr\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\it\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\nl\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\no\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\pt-br\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\pt\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\da\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\ro\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\ru\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\sr\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\sv\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\zh-CHS\Csla.resources.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\Csla.dll
+D:\Vivek Rane\Practice\test\BV\BV\Csla\obj\Debug\Csla.pdb

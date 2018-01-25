@@ -1,0 +1,76 @@
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\FirstLook.Common.ActiveRecord.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\FirstLook.Common.ActiveRecord.pdb
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\FirstLook.Common.Core.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\FirstLook.Common.Data.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\Autofac.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\Newtonsoft.Json.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\Microsoft.XmlDiffPatch.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\log4net.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\itextsharp.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\FirstLook.Common.Pool.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\FirstLook.Common.Impersonation.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\FirstLook.Common.Threading.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\FirstLook.Common.Core.pdb
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\FirstLook.Common.Data.pdb
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\Autofac.xml
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\Newtonsoft.Json.xml
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\log4net.xml
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\FirstLook.Common.Pool.pdb
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\FirstLook.Common.Impersonation.pdb
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\FirstLook.Common.Threading.pdb
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\obj\Debug\ActiveRecord.csprojResolveAssemblyReference.cache
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\obj\Debug\FirstLook.Common.ActiveRecord.ActiveRecord.resources
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\obj\Debug\ActiveRecord.csproj.GenerateResource.Cache
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\obj\Debug\FirstLook.Common.ActiveRecord.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\obj\Debug\FirstLook.Common.ActiveRecord.pdb
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\FirstLook.Common.ActiveRecord.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\FirstLook.Common.ActiveRecord.pdb
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\FirstLook.Common.Core.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\FirstLook.Common.Data.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\Autofac.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\Newtonsoft.Json.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\Microsoft.XmlDiffPatch.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\log4net.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\itextsharp.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\FirstLook.Common.Pool.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\FirstLook.Common.Impersonation.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\FirstLook.Common.Threading.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\FirstLook.Common.Core.pdb
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\FirstLook.Common.Data.pdb
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\Autofac.xml
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\Newtonsoft.Json.xml
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\log4net.xml
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\FirstLook.Common.Pool.pdb
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\FirstLook.Common.Impersonation.pdb
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\bin\Debug\FirstLook.Common.Threading.pdb
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\obj\Debug\ActiveRecord.csprojResolveAssemblyReference.cache
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\obj\Debug\FirstLook.Common.ActiveRecord.ActiveRecord.resources
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\obj\Debug\ActiveRecord.csproj.GenerateResource.Cache
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\obj\Debug\FirstLook.Common.ActiveRecord.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\ActiveRecord\obj\Debug\FirstLook.Common.ActiveRecord.pdb
+D:\Vivek Rane\Practice\test\BV\BV\ActiveRecord\bin\Debug\VB.Common.ActiveRecord.dll
+D:\Vivek Rane\Practice\test\BV\BV\ActiveRecord\bin\Debug\VB.Common.ActiveRecord.pdb
+D:\Vivek Rane\Practice\test\BV\BV\ActiveRecord\bin\Debug\VB.Common.Core.dll
+D:\Vivek Rane\Practice\test\BV\BV\ActiveRecord\bin\Debug\VB.Common.Data.dll
+D:\Vivek Rane\Practice\test\BV\BV\ActiveRecord\bin\Debug\Autofac.dll
+D:\Vivek Rane\Practice\test\BV\BV\ActiveRecord\bin\Debug\Newtonsoft.Json.dll
+D:\Vivek Rane\Practice\test\BV\BV\ActiveRecord\bin\Debug\Microsoft.XmlDiffPatch.dll
+D:\Vivek Rane\Practice\test\BV\BV\ActiveRecord\bin\Debug\log4net.dll
+D:\Vivek Rane\Practice\test\BV\BV\ActiveRecord\bin\Debug\itextsharp.dll
+D:\Vivek Rane\Practice\test\BV\BV\ActiveRecord\bin\Debug\VB.Common.Pool.dll
+D:\Vivek Rane\Practice\test\BV\BV\ActiveRecord\bin\Debug\VB.Common.Impersonation.dll
+D:\Vivek Rane\Practice\test\BV\BV\ActiveRecord\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+D:\Vivek Rane\Practice\test\BV\BV\ActiveRecord\bin\Debug\VB.Common.Threading.dll
+D:\Vivek Rane\Practice\test\BV\BV\ActiveRecord\bin\Debug\VB.Common.Core.pdb
+D:\Vivek Rane\Practice\test\BV\BV\ActiveRecord\bin\Debug\VB.Common.Data.pdb
+D:\Vivek Rane\Practice\test\BV\BV\ActiveRecord\bin\Debug\Newtonsoft.Json.xml
+D:\Vivek Rane\Practice\test\BV\BV\ActiveRecord\bin\Debug\VB.Common.Pool.pdb
+D:\Vivek Rane\Practice\test\BV\BV\ActiveRecord\bin\Debug\VB.Common.Impersonation.pdb
+D:\Vivek Rane\Practice\test\BV\BV\ActiveRecord\bin\Debug\VB.Common.Threading.pdb
+D:\Vivek Rane\Practice\test\BV\BV\ActiveRecord\obj\Debug\ActiveRecord.csprojResolveAssemblyReference.cache
+D:\Vivek Rane\Practice\test\BV\BV\ActiveRecord\obj\Debug\VB.Common.ActiveRecord.ActiveRecord.resources
+D:\Vivek Rane\Practice\test\BV\BV\ActiveRecord\obj\Debug\ActiveRecord.csproj.GenerateResource.Cache
+D:\Vivek Rane\Practice\test\BV\BV\ActiveRecord\obj\Debug\VB.Common.ActiveRecord.dll
+D:\Vivek Rane\Practice\test\BV\BV\ActiveRecord\obj\Debug\VB.Common.ActiveRecord.pdb

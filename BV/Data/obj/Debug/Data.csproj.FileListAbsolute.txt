@@ -1,0 +1,63 @@
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\FirstLook.Common.Data.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\FirstLook.Common.Data.pdb
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\FirstLook.Common.Core.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\FirstLook.Common.Impersonation.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\FirstLook.Common.Pool.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\Autofac.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\Newtonsoft.Json.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\Microsoft.XmlDiffPatch.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\log4net.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\itextsharp.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\FirstLook.Common.Threading.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\FirstLook.Common.Core.pdb
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\FirstLook.Common.Impersonation.pdb
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\FirstLook.Common.Pool.pdb
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\Autofac.xml
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\Newtonsoft.Json.xml
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\log4net.xml
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\FirstLook.Common.Threading.pdb
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\obj\Debug\FirstLook.Common.Data.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\obj\Debug\FirstLook.Common.Data.pdb
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\FirstLook.Common.Data.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\FirstLook.Common.Data.pdb
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\FirstLook.Common.Core.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\FirstLook.Common.Impersonation.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\FirstLook.Common.Pool.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\Autofac.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\Newtonsoft.Json.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\Microsoft.XmlDiffPatch.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\log4net.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\itextsharp.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\FirstLook.Common.Threading.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\FirstLook.Common.Core.pdb
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\FirstLook.Common.Impersonation.pdb
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\FirstLook.Common.Pool.pdb
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\Autofac.xml
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\Newtonsoft.Json.xml
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\log4net.xml
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\bin\Debug\FirstLook.Common.Threading.pdb
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\obj\Debug\FirstLook.Common.Data.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Data\obj\Debug\FirstLook.Common.Data.pdb
+D:\Vivek Rane\Practice\test\BV\BV\Data\bin\Debug\VB.Common.Data.dll
+D:\Vivek Rane\Practice\test\BV\BV\Data\bin\Debug\VB.Common.Data.pdb
+D:\Vivek Rane\Practice\test\BV\BV\Data\bin\Debug\VB.Common.Core.dll
+D:\Vivek Rane\Practice\test\BV\BV\Data\bin\Debug\VB.Common.Impersonation.dll
+D:\Vivek Rane\Practice\test\BV\BV\Data\bin\Debug\VB.Common.Pool.dll
+D:\Vivek Rane\Practice\test\BV\BV\Data\bin\Debug\Autofac.dll
+D:\Vivek Rane\Practice\test\BV\BV\Data\bin\Debug\Newtonsoft.Json.dll
+D:\Vivek Rane\Practice\test\BV\BV\Data\bin\Debug\Microsoft.XmlDiffPatch.dll
+D:\Vivek Rane\Practice\test\BV\BV\Data\bin\Debug\log4net.dll
+D:\Vivek Rane\Practice\test\BV\BV\Data\bin\Debug\itextsharp.dll
+D:\Vivek Rane\Practice\test\BV\BV\Data\bin\Debug\VB.Common.Threading.dll
+D:\Vivek Rane\Practice\test\BV\BV\Data\bin\Debug\VB.Common.Core.pdb
+D:\Vivek Rane\Practice\test\BV\BV\Data\bin\Debug\VB.Common.Impersonation.pdb
+D:\Vivek Rane\Practice\test\BV\BV\Data\bin\Debug\VB.Common.Pool.pdb
+D:\Vivek Rane\Practice\test\BV\BV\Data\bin\Debug\Newtonsoft.Json.xml
+D:\Vivek Rane\Practice\test\BV\BV\Data\bin\Debug\VB.Common.Threading.pdb
+D:\Vivek Rane\Practice\test\BV\BV\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\Vivek Rane\Practice\test\BV\BV\Data\obj\Debug\VB.Common.Data.dll
+D:\Vivek Rane\Practice\test\BV\BV\Data\obj\Debug\VB.Common.Data.pdb

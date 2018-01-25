@@ -1,0 +1,14 @@
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Impersonation\bin\Debug\FirstLook.Common.Impersonation.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Impersonation\bin\Debug\FirstLook.Common.Impersonation.pdb
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Impersonation\obj\Debug\FirstLook.Common.Impersonation.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Impersonation\obj\Debug\FirstLook.Common.Impersonation.pdb
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Impersonation\obj\Debug\Impersonation.csprojResolveAssemblyReference.cache
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Impersonation\bin\Debug\FirstLook.Common.Impersonation.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Impersonation\bin\Debug\FirstLook.Common.Impersonation.pdb
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Impersonation\obj\Debug\FirstLook.Common.Impersonation.dll
+D:\Vivek Rane\project\MaxDigital\git\FirstLook.NET\MasterSolution\CommonsSolution\Impersonation\obj\Debug\FirstLook.Common.Impersonation.pdb
+D:\Vivek Rane\Practice\test\BV\BV\Impersonation\bin\Debug\VB.Common.Impersonation.dll
+D:\Vivek Rane\Practice\test\BV\BV\Impersonation\bin\Debug\VB.Common.Impersonation.pdb
+D:\Vivek Rane\Practice\test\BV\BV\Impersonation\obj\Debug\Impersonation.csprojResolveAssemblyReference.cache
+D:\Vivek Rane\Practice\test\BV\BV\Impersonation\obj\Debug\VB.Common.Impersonation.dll
+D:\Vivek Rane\Practice\test\BV\BV\Impersonation\obj\Debug\VB.Common.Impersonation.pdb

@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="VB.Common.Data.DataTableMapper">
+    <Position X="0.5" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <FileName>DataTableMapper.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAEAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VB.Common.Data.DataProviderFactory">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <FileName>DataProviderFactory.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAEAAIAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="VB.Common.Data.DataProviderFactory.ParameterValue" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DataProviderFactory.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Class Name="VB.Common.Data.DataProviderFactory.DbDataProviderFactory" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DataProviderFactory.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="VB.Common.Data.DataProviderFactory.AdomdDataProviderFactory" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DataProviderFactory.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+  </Class>
+  <Interface Name="VB.Common.Data.IDataCommand">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>IDataCommand.cs</FileName>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="VB.Common.Data.IDataCommandTemplate">
+    <Position X="6.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <FileName>IDataCommandTemplate.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAASACAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="DataMap" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="Parameters" />
+    </ShowAsCollectionAssociation>
+    <AssociationLine Name="Parameters" Type="VB.Common.Data.IDataParameterTemplate">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.35" Y="0.039" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="DataMap" Type="VB.Common.Data.IDataMap">
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="-0.89" Y="0.383" Height="0.16" Width="0.712" />
+      </MemberNameLabel>
+    </AssociationLine>
+  </Interface>
+  <Interface Name="VB.Common.Data.IDataParameterTemplate">
+    <Position X="9.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <FileName>IDataParameterTemplate.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAAIAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="VB.Common.Data.IDataMapEntry">
+    <Position X="6.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>IDataMapEntry.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAACAABAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="VB.Common.Data.IDataMap">
+    <Position X="6.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>IDataMap.cs</FileName>
+      <HashCode>AAAAAAAAAAAAACAAgQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Entries" />
+    </ShowAsCollectionAssociation>
+    <AssociationLine Name="Entries" Type="VB.Common.Data.IDataMapEntry">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.752" Y="0.349" />
+      </MemberNameLabel>
+    </AssociationLine>
+  </Interface>
+  <Interface Name="VB.Common.Data.IDataConnection">
+    <Position X="3.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <FileName>IDataConnection.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+</ClassDiagram>

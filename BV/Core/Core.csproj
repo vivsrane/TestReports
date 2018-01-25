@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4926A864-49E7-4806-9576-D3E674723282}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VB.Common.Core</RootNamespace>
+    <AssemblyName>VB.Common.Core</AssemblyName>
+    <RunPostBuildEvent>OnOutputUpdated</RunPostBuildEvent>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\..\WanamakerSolution\</SolutionDir>
+    <RestorePackages>true</RestorePackages>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;CODE_ANALYSIS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;CODE_ANALYSIS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Staging|AnyCPU' ">
+    <OutputPath>bin\Staging\</OutputPath>
+    <DefineConstants>TRACE;CODE_ANALYSIS</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Alpha|AnyCPU' ">
+    <OutputPath>bin\Alpha\</OutputPath>
+    <DefineConstants>TRACE;CODE_ANALYSIS</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Autofac, Version=2.4.5.724, Culture=neutral, PublicKeyToken=17863af14b0044da, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Binaries\Autofac-2.4.5.724-NET40\Autofac.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlAgilityPack">
+      <HintPath>..\..\..\Binaries\HtmlAgilityPack.1.4.0\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.0.2.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Binaries\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.XmlDiffPatch, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Binaries\Microsoft.XmlDiffPatch.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Binaries\log4net-1.2.10\bin\net\2.0\release\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=8.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Binaries\Newtonsoft.Json\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Caching" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.ServiceModel.Web" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BusinessObject.cs" />
+    <Compile Include="AsyncResult.cs" />
+    <Compile Include="AsyncResultNoResult.cs" />
+    <Compile Include="AsyncState.cs" />
+    <Compile Include="BusinessObjectList.cs" />
+    <Compile Include="Cache\DotNetCacheWrapper.cs" />
+    <Compile Include="Cache\DotnetMemoryCacheWrapper.cs" />
+    <Compile Include="Cache\MemoryCache.cs" />
+    <Compile Include="Cache\CacheConstants.cs" />
+    <Compile Include="Cache\ICache.cs" />
+    <Compile Include="Collections\RandomAccess.cs" />
+    <Compile Include="Collections\RandomAccessIterator.cs" />
+    <Compile Include="Collections\IRandomAccess.cs" />
+    <Compile Include="Command\AbstractCommand.cs" />
+    <Compile Include="Command\CachedCommand.cs" />
+    <Compile Include="Command\Command.cs" />
+    <Compile Include="Command\CommandBatch.cs" />
+    <Compile Include="Command\CommandChain.cs" />
+    <Compile Include="Command\CommandEventArgs.cs" />
+    <Compile Include="Command\CommandExceptionEventArgs.cs" />
+    <Compile Include="Command\CommandFactory.cs" />
+    <Compile Include="Command\ICommand.cs" />
+    <Compile Include="Command\ICommandExecutor.cs" />
+    <Compile Include="Command\ICommandFactory.cs" />
+    <Compile Include="Command\ICommandObservable.cs" />
+    <Compile Include="Command\ICommandObserver.cs" />
+    <Compile Include="Command\ICommandParameter.cs" />
+    <Compile Include="Command\ICommandResult.cs" />
+    <Compile Include="Command\SimpleCommandExecutor.cs" />
+    <Compile Include="Component\BoundAttribute.cs" />
+    <Compile Include="Component\ConcurrentModificationException.cs" />
+    <Compile Include="Component\ExtendedPropertyChangedEventArgs.cs" />
+    <Compile Include="Component\ExtendedPropertyChangingEventArgs.cs" />
+    <Compile Include="Component\Inspect.cs" />
+    <Compile Include="Component\IPropertyChanged.cs" />
+    <Compile Include="Component\IPersisted.cs" />
+    <Compile Include="Component\PropertyDelegate.cs" />
+    <Compile Include="Configuration\BaseConfigurationSection.cs" />
+    <Compile Include="CoreModule.cs" />
+    <Compile Include="Data\DbConnectionFactory.cs" />
+    <Compile Include="Data\IDbConnectionFactory.cs" />
+    <Compile Include="DateRange.cs" />
+    <Compile Include="Diagnostics\PerformanceCounterInstaller.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Diagnostics\Counters\OperationsPerSecondPerformanceCounter.cs" />
+    <Compile Include="Diagnostics\Counters\OperationSuccessRatioPerformanceCounter.cs" />
+    <Compile Include="Diagnostics\PerformanceCounterFactory.cs" />
+    <Compile Include="Diagnostics\PerformanceMonitoringObserver.cs" />
+    <Compile Include="Command\SimpleCommandResult.cs" />
+    <Compile Include="Diagnostics\Configuration\PerformanceMonitoringConfigurationSection.cs" />
+    <Compile Include="DataServiceArguments.cs" />
+    <Compile Include="DataServiceParameterCallback.cs" />
+    <Compile Include="Data\Closable.cs" />
+    <Compile Include="Data\Database.cs" />
+    <Compile Include="Data\DbCommand.cs" />
+    <Compile Include="Data\DataRecord.cs" />
+    <Compile Include="Data\DataSession.cs" />
+    <Compile Include="Data\DataSessionManager.cs" />
+    <Compile Include="Data\DataStore.cs" />
+    <Compile Include="Data\DataConnection.cs" />
+    <Compile Include="Data\IClosable.cs" />
+    <Compile Include="Data\IDataConnection.cs" />
+    <Compile Include="Diagnostics\Configuration\PerformanceMonitoringMappingCollection.cs" />
+    <Compile Include="Diagnostics\Configuration\PerformanceMonitoringMappingElement.cs" />
+    <Compile Include="Diagnostics\Counters\AverageOperationTimePerformanceCounter.cs" />
+    <Compile Include="Diagnostics\PerformanceCounterRegistry.cs" />
+    <Compile Include="Diagnostics\IPerformanceCounter.cs" />
+    <Compile Include="Diagnostics\Counters\BasePerformanceCounter.cs" />
+    <Compile Include="Extensions\DateExtensions.cs" />
+    <Compile Include="Extensions\WebRequestExtensions.cs" />
+    <Compile Include="GatewayBase.cs" />
+    <Compile Include="Data\IDataSession.cs" />
+    <Compile Include="Data\IDataSessionManager.cs" />
+    <Compile Include="Data\ITransaction.cs" />
+    <Compile Include="Data\ITransactionFactory.cs" />
+    <Compile Include="Hashing\HashAlgorithm.cs" />
+    <Compile Include="Hashing\IHashable.cs" />
+    <Compile Include="IMemoryCache.cs" />
+    <Compile Include="Logging\Extensions.cs" />
+    <Compile Include="Logging\ILog.cs" />
+    <Compile Include="Logging\ILoggerFactory.cs" />
+    <Compile Include="Logging\LoggerFactory.cs" />
+    <Compile Include="Logging\Log4NetLoggerProxy.cs" />
+    <Compile Include="Logging\LoggedScopeStopwatch.cs" />
+    <Compile Include="Logging\LogLevel.cs" />
+    <Compile Include="Membership\IMemberContext.cs" />
+    <Compile Include="Membership\IMember.cs" />
+    <Compile Include="Memento\IMemento.cs" />
+    <Compile Include="Memento\IMementoFactory.cs" />
+    <Compile Include="Memento\IOriginator.cs" />
+    <Compile Include="RepositoryBase.cs" />
+    <Compile Include="Extensions\StringExtensions.cs" />
+    <Compile Include="GlobalSuppression.cs" />
+    <Compile Include="ICache.cs" />
+    <Compile Include="IDataService.cs" />
+    <Compile Include="Extensions\IEnumerableExtensions.cs" />
+    <Compile Include="ILogger.cs" />
+    <Compile Include="IOC\IRegistryModule.cs" />
+    <Compile Include="IOC\Registry.cs" />
+    <Compile Include="Logging\HealthMonitoringWrapper.cs" />
+    <Compile Include="ObjectDumper.cs" />
+    <Compile Include="NullCache.cs" />
+    <Compile Include="NullLogger.cs" />
+    <Compile Include="PropertyChange.cs" />
+    <Compile Include="PropertyChangeSupport.cs" />
+    <Compile Include="Registry\IModule.cs" />
+    <Compile Include="Registry\ImplementationScope.cs" />
+    <Compile Include="Registry\IRegistry.cs" />
+    <Compile Include="Registry\IResolver.cs" />
+    <Compile Include="Registry\RegistryFactory.cs" />
+    <Compile Include="ServiceModel\ErrorHandler.cs" />
+    <Compile Include="ServiceModel\ErrorHandlerBehavior.cs" />
+    <Compile Include="ServiceModel\ErrorHandlerBehaviorElement.cs" />
+    <Compile Include="Tuple.cs" />
+    <Compile Include="TypeUtility.cs" />
+    <Compile Include="Utilities\PDF\PdfDocumentWrapper.cs" />
+    <Compile Include="Utilities\SimilarStringComparer.cs" />
+    <Compile Include="Utilities\UtcEpochToDateTimeJsonConverter.cs" />
+    <Compile Include="Utilities\WhiteListHelper.cs" />
+    <Compile Include="Validation\Attributes\ConstrainedAttribute.cs" />
+    <Compile Include="Validation\Attributes\ConstraintAttribute.cs" />
+    <Compile Include="Validation\Constraints\BetweenLengthConstraint.cs" />
+    <Compile Include="Validation\Constraints\BetweenValueConstraint.cs" />
+    <Compile Include="Validation\Constraints\CompositeConstraint.cs" />
+    <Compile Include="Validation\Constraints\ExactLengthConstraint.cs" />
+    <Compile Include="Validation\Constraints\MaxLengthConstraint.cs" />
+    <Compile Include="Validation\Constraints\MaxValueConstraint.cs" />
+    <Compile Include="Validation\Constraints\MinLengthConstraint.cs" />
+    <Compile Include="Validation\Constraints\MinValueConstraint.cs" />
+    <Compile Include="Validation\Constraints\PropertyConstraint.cs" />
+    <Compile Include="Validation\Constraints\RegexConstraint.cs" />
+    <Compile Include="Validation\Constraints\RequiredConstraint.cs" />
+    <Compile Include="Validation\ConstraintViolationException.cs" />
+    <Compile Include="Validation\ConstraintViolations.cs" />
+    <Compile Include="Validation\IConstrained.cs" />
+    <Compile Include="Validation\IConstraint.cs" />
+    <Compile Include="Validation\IConstraintViolation.cs" />
+    <Compile Include="Validation\IConstraintViolations.cs" />
+    <Compile Include="Validation\IConstraintDefinition.cs" />
+    <Compile Include="Validation\Attributes\MaxLengthAttribute.cs" />
+    <Compile Include="Validation\Attributes\MinLengthAttribute.cs" />
+    <Compile Include="Validation\ObjectConstraintViolation.cs" />
+    <Compile Include="Validation\PropertyConstraintViolation.cs" />
+    <Compile Include="Validation\Attributes\RequiredAttribute.cs" />
+    <Compile Include="Validation\ValidationRules.cs" />
+    <Compile Include="Validation\ConstraintDefinition.cs" />
+    <Compile Include="Xml\IRenderXml.cs" />
+    <Compile Include="DTO\ISurrogateKey.cs" />
+    <Compile Include="DTO\ITransferObject.cs" />
+    <Compile Include="Pair.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SampleSummary.cs" />
+    <Compile Include="SynchronousAsyncResult.cs" />
+    <Compile Include="SynchronousAsyncResultNoResult.cs" />
+    <Compile Include="Xml\SerializableXmlDocument.cs" />
+    <Compile Include="Xml\TagBuilder.cs" />
+    <Compile Include="Utilities\CollectionHelper.cs" />
+    <Compile Include="Utilities\ConversionHelper.cs" />
+    <Compile Include="Utilities\EnumHelper.cs" />
+    <Compile Include="Utilities\Int32Helper.cs" />
+    <Compile Include="Utilities\NullHelper.cs" />
+    <Compile Include="Utilities\PDF\PdfHelper.cs" />
+    <Compile Include="Utilities\PDF\PrinceXmlWebServiceProxy.cs" />
+    <Compile Include="Utilities\StringHelper.cs" />
+    <Compile Include="Web\MVP\AbstractPresenter.cs" />
+    <Compile Include="Web\MVP\IPresenter.cs" />
+    <Compile Include="Web\MVP\IView.cs" />
+    <Compile Include="Extensions\JsonExtensions.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Email\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <Import Project="$(SolutionDir)\.nuget\NuGet.targets" Condition="Exists('$(SolutionDir)\.nuget\NuGet.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Enable NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('$(SolutionDir)\.nuget\NuGet.targets')" Text="$([System.String]::Format('$(ErrorText)', '$(SolutionDir)\.nuget\NuGet.targets'))" />
+  </Target>
+</Project>

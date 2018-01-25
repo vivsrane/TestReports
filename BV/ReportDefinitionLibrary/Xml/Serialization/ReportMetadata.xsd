@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="ReportMetadata" targetNamespace="http://tempuri.org/ReportMetadata.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/ReportMetadata.xsd" xmlns:mstns="http://tempuri.org/ReportMetadata.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:complexType name="Authorization">
+		<xs:sequence minOccurs="0" maxOccurs="unbounded">
+			<xs:choice minOccurs="0" maxOccurs="unbounded">
+				<xs:element name="Allow" type="xs:string" />
+				<xs:element name="Deny" type="xs:string" />
+			</xs:choice>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="Authorization" type="Authorization" />
+	<xs:complexType name="LocalReport">
+		<xs:sequence>
+			<xs:element name="File" type="xs:string" />
+			<xs:element name="DataSourceName" type="xs:string" />
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="LocalReport" type="LocalReport" />
+	<xs:complexType name="ServerReport">
+		<xs:sequence>
+			<xs:element name="Path" type="xs:anyURI" />
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="ServerReport" type="ServerReport" />
+	<xs:simpleType name="ActiveReportProcessingLocation">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="LocalReport" />
+			<xs:enumeration value="ServerReport" />
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="ReportProcessingLocation">
+		<xs:sequence>
+			<xs:element ref="LocalReport" />
+			<xs:element ref="ServerReport" minOccurs="0" />
+		</xs:sequence>
+		<xs:attribute name="Use" type="ActiveReportProcessingLocation" use="optional" default="LocalReport" />
+	</xs:complexType>
+	<xs:element name="ReportProcessingLocation" type="ReportProcessingLocation" />
+	<xs:simpleType name="ParameterDataType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Boolean" />
+			<xs:enumeration value="DateTime" />
+			<xs:enumeration value="Integer" />
+			<xs:enumeration value="Float" />
+			<xs:enumeration value="String" />
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="ParameterInputType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Text" />
+			<xs:enumeration value="Password" />
+			<xs:enumeration value="Checkbox" />
+			<xs:enumeration value="Radio" />
+			<xs:enumeration value="Hidden" />
+			<xs:enumeration value="Select" />
+        </xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="ParameterValue">
+		<xs:sequence>
+			<xs:element name="Value" type="xs:string" />
+			<xs:element name="Label" type="xs:string" />
+		</xs:sequence>
+		<xs:attribute name="Selected" type="xs:boolean" use="optional" default="false" />
+	</xs:complexType>
+	<xs:element name="ParameterValue" type="ParameterValue" />
+	<xs:complexType name="ParameterValues">
+		<xs:sequence>
+			<xs:element ref="ParameterValue" maxOccurs="unbounded" />
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="ParameterValues" type="ParameterValues" />
+	<xs:simpleType name="TimeUnit">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="YY" />
+			<xs:enumeration value="MM" />
+			<xs:enumeration value="DD" />
+			<xs:enumeration value="HH" />
+			<xs:enumeration value="MI" />
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="TimeDirection">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Backward" />
+			<xs:enumeration value="Forward" />
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="DateTimeFormatSpecifier">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="d" />
+			<xs:enumeration value="D" />
+			<xs:enumeration value="t" />
+			<xs:enumeration value="T" />
+			<xs:enumeration value="f" />
+			<xs:enumeration value="F" />
+			<xs:enumeration value="g" />
+			<xs:enumeration value="G" />
+			<xs:enumeration value="M" />
+			<xs:enumeration value="m" />
+			<xs:enumeration value="R" />
+			<xs:enumeration value="r" />
+			<xs:enumeration value="s" />
+			<xs:enumeration value="u" />
+			<xs:enumeration value="U" />
+			<xs:enumeration value="Y" />
+			<xs:enumeration value="y" />
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="DateTimeFormatInfo">
+		<xs:sequence>
+			<xs:element name="FullDateTimePattern" type="xs:string" minOccurs="0" />
+			<xs:element name="LongDatePattern" type="xs:string" minOccurs="0" />
+			<xs:element name="LongTimePattern" type="xs:string" minOccurs="0" />
+			<xs:element name="MonthDayPattern" type="xs:string" minOccurs="0" />
+			<xs:element name="ShortDatePattern" type="xs:string" minOccurs="0" />
+			<xs:element name="ShortTimePattern" type="xs:string" minOccurs="0" />
+			<xs:element name="YearMonthPattern" type="xs:string" minOccurs="0" />
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="DateTimeFormatInfo" type="DateTimeFormatInfo" />
+	<xs:complexType name="DateRange">
+		<xs:sequence>
+			<xs:element ref="DateTimeFormatInfo" />
+		</xs:sequence>
+		<xs:attribute name="InitialUnit" type="TimeUnit" use="required" />
+		<xs:attribute name="InitialDistance" type="xs:integer" use="optional" default="0" />
+		<xs:attribute name="DistanceUnit" type="TimeUnit" use="required" />
+		<xs:attribute name="Distance" type="xs:integer" use="optional" default="1" />
+		<xs:attribute name="NumberOfItems" type="xs:integer" use="required" />
+		<xs:attribute name="Direction" type="TimeDirection" use="required" />
+		<xs:attribute name="SelectedIndex" type="xs:integer" use="optional" default="0" />
+		<xs:attribute name="LabelDateTimeFormatSpecifier" type="DateTimeFormatSpecifier" use="required" />
+		<xs:attribute name="ValueDateTimeFormatSpecifier" type="DateTimeFormatSpecifier" use="required" />
+	</xs:complexType>
+	<xs:element name="DateRange" type="DateRange" />
+	<xs:complexType name="ParameterRange">
+		<xs:choice>
+			<xs:element ref="DateRange" minOccurs="1" maxOccurs="1" />
+		</xs:choice>
+	</xs:complexType>
+	<xs:element name="ParameterRange" type="ParameterRange" />
+	<xs:simpleType name="MethodArgumentSource">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Callback" />
+			<xs:enumeration value="Constant" />
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="MethodArgument">
+		<xs:sequence>
+			<xs:element name="Value" type="xs:string" minOccurs="0" maxOccurs="1" />
+		</xs:sequence>
+		<xs:attribute name="Name" type="xs:string" use="required" />
+		<xs:attribute name="Type" type="xs:string" use="required" />
+		<xs:attribute name="Source" type="MethodArgumentSource" use="required" />
+	</xs:complexType>
+	<xs:complexType name="MethodArguments">
+		<xs:sequence>
+			<xs:element name="Argument" type="MethodArgument" minOccurs="0" maxOccurs="unbounded" />
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="InvokeMethod">
+		<xs:sequence>
+			<xs:element name="MethodName" type="xs:string" />
+			<xs:element name="Arguments" type="MethodArguments" />
+		</xs:sequence>
+	</xs:complexType>
+	<xs:simpleType name="MemberType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Field" />
+			<xs:enumeration value="Property" />
+			<xs:enumeration value="Method" />
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="DomainModelMember">
+		<xs:attribute name="MemberType" type="MemberType" use="required" />
+		<xs:attribute name="Name" type="xs:string" use="required" />
+	</xs:complexType>
+	<xs:complexType name="InsertDomainValues">
+		<xs:sequence>
+			<xs:element ref="ParameterValue" minOccurs="1" maxOccurs="unbounded" />
+		</xs:sequence>
+		<xs:attribute name="Index" type="xs:integer" use="required" />
+	</xs:complexType>
+	<xs:complexType name="CustomDomainValues">
+		<xs:sequence>
+			<xs:element name="Insert" type="InsertDomainValues" />
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="SelectedDomainValue">
+		<xs:attribute name="Index" type="xs:integer" />
+		<xs:attribute name="Value" type="xs:string" />
+	</xs:complexType>
+	<xs:complexType name="DomainModel">
+		<xs:sequence>
+			<xs:element name="DomainModelName" type="xs:string" />
+			<xs:element name="InvokeMethod" type="InvokeMethod" />
+			<xs:element name="Label" type="DomainModelMember" />
+			<xs:element name="Value" type="DomainModelMember" />
+			<xs:element name="CustomValues" type="CustomDomainValues" minOccurs="0" maxOccurs="1" />
+			<xs:element name="Selected" type="SelectedDomainValue" minOccurs="0" maxOccurs="1" />
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="DomainModel" type="DomainModel" />
+	<xs:complexType name="ValidValues">
+		<xs:choice>
+			<xs:element ref="ParameterValues" />
+			<xs:element ref="ParameterRange" />
+			<xs:element ref="DomainModel" />
+		</xs:choice>
+	</xs:complexType>
+	<xs:element name="ValidValues" type="ValidValues" />
+	<xs:complexType name="Parameter">
+		<xs:sequence>
+			<xs:element name="Name" type="xs:string" />
+			<xs:element name="Label" type="xs:string" />
+			<xs:element ref="ValidValues" minOccurs="0" />
+		</xs:sequence>
+		<xs:attribute name="ParameterDataType" type="ParameterDataType" use="required" />
+		<xs:attribute name="ParameterInputType" type="ParameterInputType" use="required" />
+		<xs:attribute name="AllowNull" type="xs:boolean" use="optional" default="false" />
+		<xs:attribute name="AllowBlank" type="xs:boolean" use="optional" default="false" />
+	</xs:complexType>
+	<xs:element name="Parameter" type="Parameter" />
+	<xs:complexType name="Parameters">
+		<xs:sequence>
+			<xs:element ref="Parameter" minOccurs="1" maxOccurs="unbounded" />
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="Parameters" type="Parameters" />
+	<xs:simpleType name="ReportType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Dealer" />
+			<xs:enumeration value="DealerGroup" />
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="Report">
+		<xs:sequence>
+			<xs:element name="Name" type="xs:string" />
+			<xs:element name="Description" type="xs:string" />
+			<xs:element ref="ReportProcessingLocation" />
+			<xs:element ref="Parameters" minOccurs="0" maxOccurs="1" />
+			<xs:element ref="Authorization" minOccurs="0" maxOccurs="1" />
+		</xs:sequence>
+		<xs:attribute name="Id" type="xs:ID" use="required" />
+		<xs:attribute name="ReportType" type="ReportType" use="required" />
+		<xs:attribute name="NewUntil" type="xs:date" use="optional" />
+	</xs:complexType>
+	<xs:element name="Report" type="Report">
+		<xs:key name="ReportPK">
+			<xs:selector xpath="." />
+			<xs:field xpath="@Id" />
+		</xs:key>
+	</xs:element>
+	<xs:complexType name="ReportMetadata">
+		<xs:sequence>
+			<xs:element ref="Report" minOccurs="1" maxOccurs="unbounded" />
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="ReportMetadata" type="ReportMetadata" />
+</xs:schema>

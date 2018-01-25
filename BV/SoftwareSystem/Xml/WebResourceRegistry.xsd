@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="WebResourceRegistry"
+                  targetNamespace="http://tempuri.org/WebResourceRegistry.xsd"
+                  elementFormDefault="qualified"
+                  xmlns="http://tempuri.org/WebResourceRegistry.xsd"
+                  xmlns:mstns="http://tempuri.org/WebResourceRegistry.xsd"
+                  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:simpleType name="OnError">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Close" />
+			<xs:enumeration value="Page" />
+			<xs:enumeration value="Home" />
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="Page">
+		<xs:attribute name="Path" type="xs:string" use="required" />
+		<xs:attribute name="OnError" type="OnError" use="optional" default="Close" />
+		<xs:attribute name="Target" type="xs:string" use="optional" />
+	</xs:complexType>
+	<xs:element name="Page" type="Page" />
+	<xs:complexType name="SoftwareSystemComponent">
+		<xs:sequence>
+			<xs:element ref="Page" minOccurs="1" maxOccurs="unbounded" />
+		</xs:sequence>
+		<xs:attribute name="Name" type="xs:string" use="required" />
+		<xs:attribute name="Home" type="xs:string" use="required" />
+	</xs:complexType>
+	<xs:element name="SoftwareSystemComponent" type="SoftwareSystemComponent" />
+	<xs:complexType name="WebResourceRegistry">
+		<xs:sequence>
+			<xs:element ref="SoftwareSystemComponent" minOccurs="0" maxOccurs="unbounded" />
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="WebResourceRegistry" type="WebResourceRegistry" />
+</xs:schema>

@@ -1,0 +1,9 @@
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\SoftwareSystem\bin\Debug\FirstLook.DomainModel.SoftwareSystem.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\SoftwareSystem\bin\Debug\FirstLook.DomainModel.SoftwareSystem.pdb
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\SoftwareSystem\obj\Debug\FirstLook.DomainModel.SoftwareSystem.dll
+D:\project\MaxDigital\git\FirstLook.NET\MasterSolution\DomainModelSolution\SoftwareSystem\obj\Debug\FirstLook.DomainModel.SoftwareSystem.pdb
+D:\Vivek Rane\Practice\test\BV\BV\SoftwareSystem\bin\Debug\BV.DomainModel.SoftwareSystem.dll
+D:\Vivek Rane\Practice\test\BV\BV\SoftwareSystem\bin\Debug\BV.DomainModel.SoftwareSystem.pdb
+D:\Vivek Rane\Practice\test\BV\BV\SoftwareSystem\obj\Debug\SoftwareSystem.csprojResolveAssemblyReference.cache
+D:\Vivek Rane\Practice\test\BV\BV\SoftwareSystem\obj\Debug\BV.DomainModel.SoftwareSystem.dll
+D:\Vivek Rane\Practice\test\BV\BV\SoftwareSystem\obj\Debug\BV.DomainModel.SoftwareSystem.pdb

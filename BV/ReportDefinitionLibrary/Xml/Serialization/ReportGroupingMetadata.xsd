@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="ReportGroupingMetadata" targetNamespace="http://tempuri.org/ReportGroupingMetadata.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/ReportGroupingMetadata.xsd" xmlns:mstns="http://tempuri.org/ReportGroupingMetadata.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:simpleType name="NodeType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="ReportGroup" />
+			<xs:enumeration value="ReportHandle" />
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="ReportReference">
+		<xs:simpleContent>
+			<xs:extension base="xs:IDREF">
+				<xs:attribute name="ComingSoon" type="xs:boolean" />
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	<xs:element name="ReportReference" type="ReportReference" />
+	<xs:complexType name="Content">
+		<xs:choice>
+			<xs:element ref="Node" minOccurs="1" maxOccurs="unbounded" />
+			<xs:element ref="ReportReference" minOccurs="1" maxOccurs="1" />
+		</xs:choice>
+	</xs:complexType>
+	<xs:element name="Content" type="Content" />
+	<xs:complexType name="Node">
+		<xs:sequence>
+			<xs:element name="Title" type="xs:string" />
+			<xs:element name="Description" type="xs:string" minOccurs="0" />
+			<xs:element ref="Content" minOccurs="1" maxOccurs="1" />
+		</xs:sequence>
+		<xs:attribute name="Id" type="xs:ID" use="required" />
+		<xs:attribute name="NodeType" type="NodeType" use="required" />
+	</xs:complexType>
+	<xs:element name="Node" type="Node">
+		<xs:key name="NodePK">
+			<xs:selector xpath="." />
+			<xs:field xpath="@Id" />
+		</xs:key>
+	</xs:element>
+	<xs:simpleType name="ReportGroupingType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Dealer" />
+			<xs:enumeration value="DealerGroup" />
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="ReportGrouping">
+		<xs:sequence>
+			<xs:element ref="Node" minOccurs="1" maxOccurs="1" />
+		</xs:sequence>
+		<xs:attribute name="Id" type="xs:ID" use="required" />
+		<xs:attribute name="ReportGroupingType" type="ReportGroupingType" use="required" />
+	</xs:complexType>
+	<xs:element name="ReportGroupings" type="ReportGrouping">
+		<xs:key name="ReportGroupingPK">
+			<xs:selector xpath="." />
+			<xs:field xpath="@Id" />
+		</xs:key>
+	</xs:element>
+	<xs:complexType name="ReportGroupingMetadata">
+		<xs:sequence>
+			<xs:element ref="ReportGroupings" minOccurs="1" maxOccurs="unbounded" />
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="ReportGroupingMetadata" type="ReportGroupingMetadata" />	
+</xs:schema>
